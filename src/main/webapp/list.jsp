@@ -17,7 +17,7 @@
 
 <div class="w3-container">
     <div class="w3-panel w3-green">
-        <h2 class="w3-opacity">Success</h2>
+        <h2 class="w3-opacity">Employee table</h2>
     </div>
     <div>Full name: <%= employee.getFullName()%></div>
     <div>Birthday: <%= employee.getBirthday()%></div>

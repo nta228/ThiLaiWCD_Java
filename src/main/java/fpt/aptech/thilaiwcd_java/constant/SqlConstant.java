@@ -1,6 +1,6 @@
-package com.example.thiwcd_java.constant;
+package fpt.aptech.thilaiwcd_java.constant;
 
 public class SqlConstant {
-    public static final String PHONE_INSERT = "insert into phones (name, brand, price, description, status) values (?,?,?,?,?)";
+    public static final String EMPLOYEE_INSERT = "insert into employees (fullName, birthday, address, position, department) values (?,?,?,?,?)";
 
 }

@@ -1,4 +1,4 @@
-package com.example.thiwcd_java.util;
+package fpt.aptech.thilaiwcd_java.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
